@@ -7,3 +7,6 @@
 •	https://henryspg.github.io/revenue.html  	    -  Power BI app: revenue visualization  
 •	https://henryspg.github.io/drop-call.html   	-  Power BI app: drop call visualization (cell-telecom industry)  
 •	https://medium.com/@henryspg/  		            -  two data science projects using Python  
+
+
+I will be glad to read your message at: henryspg@gmail.com   
