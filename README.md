@@ -1,7 +1,7 @@
 ### Hi here is my project & blogposts ! 👋
 
 - 🔭 I’m currently working on: ... converting scanned-pdf of legal documents into text format and getting the keywords  
-- 🌱 I’m currently learning ... data science at Lambda School, https://lambdaschool.com/courses/data-science  
+- 🌱 I just finished full time remote course ... data science at Lambda School, https://lambdaschool.com/courses/data-science  
 - 👯 I’m looking to collaborate on ... using data science to improve KPI for telecom industry  
 
 •	https://henryspg.github.io/revenue.html  	                                     -  Power BI app: revenue visualization  
